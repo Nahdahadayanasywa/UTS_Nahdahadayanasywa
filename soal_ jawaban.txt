@@ -1,0 +1,27 @@
+1. Apa yang dimaksud dengan framework pada pengembangan aplikasi? 
+(jelaskan dengan bahasa yang mudah dimengerti, bukan secara 
+harfiah/istilah)
+
+Framework pada pengembangan aplikasi adalah kerangka kerja perangkat lunak yang menyediakan struktur dan alat-alat untuk memudahkan pengembangan perangkat lunak. Framework membantu mempercepat proses pengembangan dengan menyediakan kumpulan aturan, pedoman, dan alat bantu yang telah siap pakai.
+
+2. 
+1.	Sebutkan tema proyek yang sedang digarap!
+Klinik 
+
+2.	Sebutkan anggota dari proyek yang sedang digarap, berikut dengan jobdesk dari masing-masing anggota! 
+Nahda hadaya nasywa (22416255201182)
+Aldi frasetya putra pratama (22416255201120)
+Putri natasya nurhalizah (22416255201260)
+
+3.	Jelaskan permasalahan yang didapat setelah hasil wawancara dengan client, beserta hipotesa solusi yang kalian usung! (jelaskan dengan bahasa yang mudah dimengerti, bukan secara harfiah/istilah) 
+Antrian :
+Permasalahan = 
+- Pasien masih dantang ke klinik untuk mengambil antirian
+Solusi =
+-	Membuat antrian onlen agar memperpendek jangka waktu, mengurangi antrian yang membeludak, mempermudah dalam membuat janji dengan dokter.
+Pemberkasan data pasien:
+Permasalahan =
+-	Data pasien masih berbentuk arsip
+Solusi =
+-	Membuat data pasien yang tersimpan didalam data base agar lebih ter struktur dan mudah untuk di akses.
+
